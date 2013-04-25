@@ -11,3 +11,5 @@ It’s a set of tools for LaunchBar that will help you with your exciting Twitte
 Just copy the contents of this file to your `~/Library/Application Support/Launchbar/Actions/` directory. Open them with AppleScript Editor and modify the username and password.
 
 To make these scripts compatible with OAuth we use [SuperTweet](http://www.supertweet.net/), which works as an API for it to safely work with cURL.
+
+Follow me at [Twitter](http://twitter.com/mario_ricalde) or at [mario.ricalde.mx](http://mario.ricalde.mx).
